@@ -1,6 +1,4 @@
 import React, { Component } from 'react'
-import { Redirect } from 'react-router'
-import { Route, Link } from 'react-router-dom';
 import Layout from '../components/layout'
 import './contact.css'
 

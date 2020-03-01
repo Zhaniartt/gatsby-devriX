@@ -32,11 +32,11 @@ module.exports = {
     {
       resolve: "gatsby-source-wordpress",
       options: {
-        // dummy site from examples 
+        // I have created a dummy site for us to use with the plugins we discussed
         baseUrl: "gatsbypress.iamtimsmith.com",
         protocol: "https",
         hostingWPCOM: false,
-      
+        // We will be using some advanced custom fields
         useACF: true,
         acfOptionPageIds: [],
         verboseOutput: false,
