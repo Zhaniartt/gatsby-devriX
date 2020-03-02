@@ -4,6 +4,6 @@
 
 
 
-![Philadelphia's Magic Gardens. This place was so cool!](/Users/janiat94/Desktop/Screenshot 2020-03-03 at 1.35.54.png "Philadelphia's Magic Gardens")
+![Philadelphia's Magic Gardens. This place was so cool!](/Users/janiat94/Desktop/devrix-img.png)
 
 
